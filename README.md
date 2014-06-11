@@ -2,6 +2,11 @@
 
 A curated set of tools for datajournalists, with examples and gists.
 
+##Complete list
+
+####Javascript charting libraries
+- [DC.js](https://github.com/basilesimon/datajournalists-toolbox/tree/master/dc.js), multi-dimensional library used for powerful d3-driven dashboards
+
 ##Contributing
 
 Do you have a tool you use and that you would like to see presented here?
