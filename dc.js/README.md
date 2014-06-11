@@ -3,7 +3,7 @@
 [http://dc-js.github.io/dc.js/](http://dc-js.github.io/dc.js/) is a Javascript library.
 It uses d3.js and crossfilter.js to provide a multi-dimensional charting library.
 
-![alt](https://raw.githubusercontent.com/basilesimon/datajournalists-toolbox/master/public/img/dcjs.png)
+![alt-tag](https://raw.githubusercontent.com/basilesimon/datajournalists-toolbox/master/dc.js/dcjs.png)
 
 ##Typical use case
 
