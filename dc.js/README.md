@@ -27,10 +27,9 @@ For example, selecting a period of time on a line chart will take this period of
 
 ##Installation and use
 
-DC.js is available [via CDN](https://github.com/dc-js/dc.js#cdn-location) for handy quick access.
-There's also a *npm* package: 
-`` npm install dc ``
-And finally, you can work locally by getting all the resources separately. [Head here](https://github.com/dc-js/dc.js#install-without-npm) for a short list.
+* DC.js is available [via CDN](https://github.com/dc-js/dc.js#cdn-location) for handy quick access.
+* There's also a *npm* package: `` npm install dc ``
+* And finally, you can work locally by getting all the resources separately. [Head here](https://github.com/dc-js/dc.js#install-without-npm) for a short list.
 
 ##Docs
 
