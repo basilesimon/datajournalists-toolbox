@@ -2,6 +2,8 @@
 
 [Chart.js](http://www.chartjs.org/) is a charting Javascript library. It is based on HTML5 *<canvas>* element.
 
+![alt-tag](https://raw.githubusercontent.com/basilesimon/datajournalists-toolbox/master/chart.js/chartjs.png)
+
 ##Typical use case
 
 Chart.js is a lightweight solution for those times when you need a quick and simple graph.
