@@ -9,7 +9,7 @@ A curated set of tools for datajournalists, with examples and gists.
 - [Chart.js](https://github.com/basilesimon/datajournalists-toolbox/tree/master/chart.js)
 
 ####Online tools
-- [Datawrapper](https://datawrapper.de/), upload/paste your data, visualise it, embed it
+- [Datawrapper](https://github.com/basilesimon/datajournalists-toolbox/tree/master/datawrapper), upload/paste your data, visualise it, embed it
 
 ##Contributing
 
