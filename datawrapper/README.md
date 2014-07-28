@@ -2,7 +2,7 @@
 
 [Datawrapper](https://datawrapper.de/) is a nice online tool to quickly visualise and embed data-visualisations. No coding skills are required to use it, which makes it attractive. 
 
-![alt]((https://raw.githubusercontent.com/basilesimon/datajournalists-toolbox/master/datawrapper/datawrapper.png)
+![alt-tag](https://raw.githubusercontent.com/basilesimon/datajournalists-toolbox/master/datawrapper/datawrapper.png)
 
 ##Typical use case
 
