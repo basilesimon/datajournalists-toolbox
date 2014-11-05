@@ -8,6 +8,9 @@ A curated set of tools for datajournalists, with examples and gists.
 - [DC.js](https://github.com/basilesimon/datajournalists-toolbox/tree/master/dc.js), multi-dimensional library used for powerful d3-driven dashboards
 - [Chart.js](https://github.com/basilesimon/datajournalists-toolbox/tree/master/chart.js)
 
+###Javascript mapping libratries
+- [Datamaps](https://github.com/basilesimon/datajournalists-toolbox/tree/master/datamaps.js), customizable SVG map visualisations for the web in a single Javascript file using D3.js
+
 ####Online tools
 - [Datawrapper](https://github.com/basilesimon/datajournalists-toolbox/tree/master/datawrapper), upload/paste your data, visualise it, embed it
 
